@@ -1,5 +1,7 @@
 # pricing-for-app-store-connect
 
+*This is a releases repo for "Pricing for App Store Connect", for macOS.  The app's main website is https://appstorepricing.app/.  At some point it should be available on the Mac App Store, though that isn't the case just yet.*
+
 View and update prices for all your apps, in-app purchases and subscriptions on one screen!
 
 Perfect for developers managing multiple apps or complex pricing structures across the App Store ecosystem Pricing for App Store Connect is a powerful tool for iOS, macOS, tvOS, and visionOS developers to manage pricing across their App Store portfolio. Easily view and filter your apps, in-app purchases, and subscriptions across all Apple platforms, Pricing for App Store Connect uses the Apple's App Store Connect API to provide a new and better way to manage your prices.  Want to change a price?  Just click and select the new price, and bam! - it's done!
